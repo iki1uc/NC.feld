@@ -53,7 +53,7 @@ Fixpunkt (4)
 ---
 
 ## 4. Warum DIAMANT.vector existiert
-
+ 
 Es löst:
 
 - instabile Richtungen  
